@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea\\inspectionProfiles",
+    "\\node_modules",
+    "\\node_modules\\angular2",
+    "\\node_modules\\angular2\\bundles",
+    "\\node_modules\\angular2\\examples",
+    "\\node_modules\\angular2\\examples\\router",
+    "\\node_modules\\angular2\\examples\\router\\ts",
+    "\\node_modules\\angular2\\examples\\router\\ts\\can_deactivate",
+    "\\node_modules\\angular2\\examples\\router\\ts\\on_activate",
+    "\\node_modules\\urix"
+  ],
+  "SelectedNode": "\\node_modules\\angular2\\bundles\\angular2-polyfills.min.js",
+  "PreviewInSolutionExplorer": false
+}
